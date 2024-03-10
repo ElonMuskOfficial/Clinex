@@ -619,6 +619,10 @@ a {
 }
 
 @media screen and (max-width: 767px) {
+  .hero {
+    background-position: 60%, 0%;
+  }
+
   .container.mt-100 {
     margin-top: 50px;
   }
